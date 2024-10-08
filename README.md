@@ -1,18 +1,19 @@
-## Getting Started
+## Conversor de moedas
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Essa projeto foi oferecido pela Alura juntamente com a Oracle no programa ONE, com muita imersão e aprendizados.
 
-## Folder Structure
+## Funcionalidade
 
-The workspace contains two folders by default, where:
+Principal funcionalidade é a conversão de 10 moedas diferentes, mostrar essa conversão e o tratamento pelo prompt.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+1. Na tela abaixo, foi questionado qual a moeda que será inserida o valor<br>
+![image](https://github.com/user-attachments/assets/448ab449-4356-4b6a-9e8e-916d098662ca)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+2. Após, será perguntado qual o valor<br>
+![image](https://github.com/user-attachments/assets/669f1dfc-dc86-456a-bd27-2ac63caf98e0)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+3. E depois será perguntado para qual moeda será convertida<br>
+![image](https://github.com/user-attachments/assets/160610ff-6250-4a54-b00f-102fc0b1f9ea)
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+4. Será feita a busca na api da [Exchange Rate API]([https://duckduckgo.com](https://www.exchangerate-api.com/)) e será mostrado a conversão.<br>
+![image](https://github.com/user-attachments/assets/05b70eab-908a-4ff9-a0de-9b1c7dd8749b)
