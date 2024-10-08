@@ -75,7 +75,6 @@ public class App {
             valor = scanner.nextDouble();
 
             System.out.println("\n=============================================================");
-            System.out.println("Seja bem-vindao/a ao Conversão de moedas :)\n");
             System.out.println("Escolha a moeda para que seja convertido: ");
             System.out.println("1 - Real (BRL)");
             System.out.println("2 - Dólar (USD)");
